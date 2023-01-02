@@ -1,0 +1,33 @@
+.page-item:not(:first-child) .page-link {
+  margin-bottom: 10px;
+}
+.card-box {
+      padding: 20px;
+      border-radius: 3px;
+      margin-bottom: 30px;
+      background-color: #fff;
+  }
+  
+  
+  .thumb-lg {
+      height: 88px;
+      width: 88px;
+  }
+  
+  .text-pink {
+      color: #ff679b!important;
+  }
+ 
+ 
+  h4 {
+      line-height: 22px;
+      font-size: 18px;
+  }
+   
+  a{
+    text-decoration: none;
+    color: black;
+  }
+.icons{
+margin: 15px 5px 0px 5px;
+}
